@@ -1,0 +1,9 @@
+.header_nav{
+    display: flex;
+    gap: 1rem;
+}
+.header_link{
+    text-decoration: none;
+    color: #181818;
+    font-size: 1.2em;
+}
